@@ -1,0 +1,7 @@
+datadog==0.25.0
+plotly==2.0.0
+ipython
+jupyter
+pandas
+matplotlib
+statsmodels
